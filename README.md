@@ -1,2 +1,0 @@
-# meded-sp-chatbot
- 
