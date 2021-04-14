@@ -1,2 +1,2 @@
-# meded-sp-chatbot
+# Standardized patient chat bot for medical education
  
